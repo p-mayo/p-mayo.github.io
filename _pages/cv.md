@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<hr>
 # Education
+<hr>
 ## PhD in Electrical and Electronic Engineering, University of Bristol, UK (2017 - 2021)
 - Advisors: Prof. Alin M. Achim \& Robin Holmes
 - Viva date: 7th of October, 2021
@@ -30,7 +32,9 @@ redirect_from:
 - The program offered by the Universidad Autónoma de Aguascalientes covered a wide variety of units, including physics, mathematics, electronics, control theory, and databases among others. There was a strong emphasis on programming units with a variety of projects to showcase the developed skills, such as a compiler and mobile games.
 - Top of class with Honours.
 
+<hr>
 # Professional Experience
+<hr>
 ## Senior Research Associate, University of Bristol, UK (2023-)
 - Project: Deep Compressive Quantitative MRI.
 - Principal Investigator: Mohammad Golbabaee.
@@ -57,33 +61,37 @@ such as Pix2Pix and CycleGAN for image enhancement.
 - Root Cause Analysis (RCA). Troubleshooting skills which involve deep analysis of applications built in C\#, ASP, Microsoft SQL DTS packages among others, and providing solutions to uncovered issues.
 - Development of automated tasks using AppWorx and batch/shell scripting.
 
-  
-# Skills
-- Programming
-- Problem solving
-- Python
-	- Pytorch
-	- Numpy
-	- Pandas
-
-Publications
-======
+<hr>
+# Publications
+<hr>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ 
+ <hr>
+# Skills
+<hr>
+<b>Programming languages: </b>
+- <b>Python</b>, C#, Java (Oracle Certified Professional, Java SE 6), HTML, CSS,
+	C/C++, JSP, ASP, Microsoft SQL Server, MySQL, MATLAB
+
+<b>Libraries:</b> 
+- Pytorch, Numpy, Pandas, Nibabel, Matplotlib
+
+<b>Others:</b>
+- Microsoft Suit, LaTeX, good communication skills, team leader, quick learner, proactive
+
+<hr>
+# Languages
+<hr>
+- Spanish Native Speaker
+- English Fluent, TOEFL iBT 95 (2014)
+- Italian A2 CILS Certificate (2014)
+- German Elementary
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
+<hr>
 # Service and leadership
+<hr>
 - Member of the Mexican Culture Society at the University of Bristol (2017-2021)
 	- President from 2019 - 2020
