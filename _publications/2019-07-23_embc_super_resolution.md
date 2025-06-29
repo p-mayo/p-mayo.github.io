@@ -1,7 +1,7 @@
 ---
 title: "Super-Resolution OCT Using Sparse Representations and Heavy-Tailed Models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2019-07-23_embc_super_resolution_oct
 excerpt: 'An update on the work published at BASP.'
 date: 2019-07-23
 venue: '2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
@@ -10,7 +10,7 @@ citation: 'Daniel Valdez Zermeno, <b>Perla Mayo</b>, Lindsay Nicholson, and Alin
 ---
 
 
-[Get paper here](https://ieeexplore.ieee.org/abstract/document/8857810/)
+[Paper](https://ieeexplore.ieee.org/abstract/document/8857810/)
 
 Recommended citation: D. V. Zermeno, P. Mayo, L. Nicholson and A. Achim, 
 "Super-Resolution OCT Using Sparse Representations and Heavy-Tailed Models," 

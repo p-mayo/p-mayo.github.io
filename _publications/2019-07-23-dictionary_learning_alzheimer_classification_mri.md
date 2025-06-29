@@ -8,9 +8,8 @@ venue: '2019 41st Annual International Conference of the IEEE Engineering in Med
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8857379'
 citation: 'Daniel Valdez Zermeno, <b>Perla Mayo</b>, Lindsay Nicholson, and Alin Achim (2019). &quot;Classification of Alzheimer’s Disease in MRI based on Dictionary Learning and Heavy Tailed Modelling.&quot; <i>2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/8857379)
+[Paper](https://ieeexplore.ieee.org/abstract/document/8857379)
 
 Recommended citation: P. Mayo, R. Holmes and A. Achim, 
 "Classification of Alzheimer’s Disease in MRI based on Dictionary Learning and Heavy Tailed Modelling," 

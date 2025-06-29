@@ -9,6 +9,8 @@ paperurl: 'https://arxiv.org/abs/2203.02940'
 citation: '<b>Perla Mayo</b>, Nantheera Anantrasirichai, Thanarat H. Chalidabhongse, Duangdao Palasuwan, and Alin Achim, (2022). &quot;Detection of Parasitic Eggs from Microscopy Images and the emergence of a new dataset.&quot; <i>arXiv</i>.'
 ---
 
+[Paper](https://arxiv.org/abs/2203.02940)
+
 ## Abstract
 Automatic detection of parasitic eggs in microscopy images has the potential to increase the 
 efficiency of human experts whilst also providing an objective assessment. The time saved by 
@@ -22,7 +24,7 @@ techniques yields encouraging results, though further improvements are still nee
 egg types whose detection still proves challenging. As a result, a new dataset has been created 
 and made publicly available, providing an even wider range of classes and variability.
 
-[Download paper here](https://arxiv.org/abs/2203.02940)
+
 
 Recommended citation: P. Mayo, N. Anantrasirichai, T. H. Chalidabhongse, D. Palasuwan, and A. Achim, 
 "Representation Learning via Cauchy Convolutional Sparse Coding," 
