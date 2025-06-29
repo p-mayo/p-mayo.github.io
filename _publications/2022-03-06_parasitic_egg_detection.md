@@ -1,12 +1,12 @@
 ---
 title: "Detection of Parasitic Eggs from Microscopy Images and the emergence of a new dataset"
 collection: publications
-permalink: /publication/2021-07-12_representation_learning_cauchy_convolutional_sparse_coding
-excerpt: 'A further step in the exploration of the Cauchy distribution in the field of representation learning.'
+permalink: /publication/2022-03-06_parasitic_egg_detection
+excerpt: 'A framework that exploits two state-of-the-art deep learning models for image enhancement and parasitic egg detection.'
 date: 2022-03-06
 venue: 'arXiv preprint arXiv:2203.02940'
 paperurl: 'https://arxiv.org/abs/2203.02940'
-citation: '<b>Perla Mayo</b>, Nantheera Anantrasirichai, Thanarat H. Chalidabhongse, Duangdao Palasuwan, and Alin Achim, (2022). &quot;Detection of Parasitic Eggs from Microscopy Images and the emergence of a new dataset.&quot; <i>IEEE Access</i>.'
+citation: '<b>Perla Mayo</b>, Nantheera Anantrasirichai, Thanarat H. Chalidabhongse, Duangdao Palasuwan, and Alin Achim, (2022). &quot;Detection of Parasitic Eggs from Microscopy Images and the emergence of a new dataset.&quot; <i>arXiv</i>.'
 ---
 
 ## Abstract
